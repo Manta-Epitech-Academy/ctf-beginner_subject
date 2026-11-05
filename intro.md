@@ -1,5 +1,7 @@
 # Mon premier CTF
 
+![L'affiche de l'atelier : un drapeau jaune au-dessus du titre « ctf{ Mon premier CTF } », sur une pluie de chiffres.](img/cover.png)
+
 Pendant deux heures, tu vas décoder des messages secrets, enquêter sur des photos et fouiller
 des fichiers bizarres. Aucune connaissance n'est nécessaire : tout se fait dans le navigateur,
 rien à installer.

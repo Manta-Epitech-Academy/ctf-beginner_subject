@@ -125,6 +125,42 @@ Regarde tout en bas de l'image, du côté des graves.
 
 </details>
 
+## Bonus secret
+<!-- ws: {type: exercise, id: bonus-secret, points: 10, optional: true} -->
+
+Tu as fini ? Il reste un dernier secret. Une image de cet atelier cache un message que personne
+ne voit. Laquelle, et où ? À toi de chercher.
+
+### Mise en application
+<!-- ws:doit -->
+
+Trouve le message caché.
+
+Format du flag : `ctf{...}`
+
+<!-- ws: {type: hint} -->
+<details><summary>Indice 1</summary>
+
+Ce n'est l'image d'aucun défi. Regarde celle qui t'a accueilli·e.
+
+</details>
+
+<!-- ws: {type: hint} -->
+<details><summary>Indice 2</summary>
+
+Le message n'est pas dans ce que tu vois : il est dans les plus petits détails des couleurs de
+chaque pixel. Garde l'image d'origine (clic droit, « Enregistrer l'image »).
+
+</details>
+
+<!-- ws: {type: hint} -->
+<details><summary>Indice 3</summary>
+
+Des sites de stéganographie en ligne découpent une image en « plans de bits ». Regarde les plus
+faibles, couleur par couleur.
+
+</details>
+
 ## Et maintenant
 
 Tu viens de faire ce que font les analystes en cybersécurité : observer, deviner ce qui se cache derrière, trouver le bon outil et vérifier. Les vrais CTF fonctionnent exactement comme ça, avec des défis de plus en plus durs. Si tu as aimé, il y en a toute l'année, en ligne et gratuits.

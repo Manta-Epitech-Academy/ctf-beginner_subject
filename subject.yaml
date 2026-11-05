@@ -6,6 +6,10 @@ project:
   summary: "Décode des messages secrets, enquête sur des photos et fouille des fichiers bizarres, comme les pros de la cybersécurité."
   entrypoint: "intro.md"
 
+cover:
+  media: img/cover.png
+  tagline: "Décode des messages secrets et capture tes premiers flags, sans rien installer."
+
 platform:
   mode_default: instructor_led
   validation_default: flag
