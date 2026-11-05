@@ -26,4 +26,4 @@ Décode des messages secrets, enquête sur des photos et fouille des fichiers bi
 - Fichier mystère (4 indices)
 - Sonagram (3 indices)
 
-**11 étapes**, 30 indices, 2 images.
+**11 étapes**, 30 indices, 2 images, 3 fichiers à télécharger.

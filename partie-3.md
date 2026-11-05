@@ -13,7 +13,11 @@ Des signaux ont été interceptés. Un message secret y est caché.
 ### Mise en application
 <!-- ws:doit -->
 
-Télécharge le fichier [message.wav](files/message.wav), mets le son et écoute bien. Retrouve le message.
+Voici les signaux interceptés :
+
+[Les signaux interceptés](fichiers/message.wav)
+
+Mets le son et écoute bien. Retrouve le message.
 
 Format du flag : le message décodé, **en minuscules, sans espaces**, sans `ctf{}`.
 
@@ -43,12 +47,16 @@ Si le décodeur hésite, ralentis : les silences plus longs séparent les lettre
 
 **Forensique** : analyser des fichiers et des traces, comme la police scientifique.
 
-Un fichier sans extension a été trouvé sur un serveur. Personne n'arrive à l'ouvrir.
+Un fichier au format inconnu a été trouvé sur un serveur. Personne n'arrive à l'ouvrir.
 
 ### Mise en application
 <!-- ws:doit -->
 
-Télécharge le fichier [unknown](files/unknown). Découvre ce que c'est, et le flag apparaîtra.
+Voici le fichier trouvé sur le serveur :
+
+[Le fichier mystère](fichiers/inconnu.bin)
+
+Découvre ce que c'est, et le flag apparaîtra.
 
 Format du flag : recopie-le **exactement** comme il s'affiche (majuscules et tirets compris), sans `ctf{}`.
 
@@ -88,7 +96,11 @@ Mon instrument de musique fait un bruit extrêmement étrange… Pouvez-vous m'a
 ### Mise en application
 <!-- ws:doit -->
 
-Télécharge le fichier [music.wav](files/music.wav). Le flag est caché dans ce son, mais tu ne l'entendras pas.
+Voici l'enregistrement de mon instrument :
+
+[L'enregistrement](fichiers/music.wav)
+
+Le flag est caché dans ce son, mais tu ne l'entendras pas.
 
 Format du flag : `ctf{...}`
 
