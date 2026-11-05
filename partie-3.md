@@ -47,14 +47,14 @@ Si le décodeur hésite, ralentis : les silences plus longs séparent les lettre
 
 **Forensique** : analyser des fichiers et des traces, comme la police scientifique.
 
-Un fichier au format inconnu a été trouvé sur un serveur. Personne n'arrive à l'ouvrir.
+Un fichier sans extension a été trouvé sur un serveur. Personne n'arrive à l'ouvrir.
 
 ### Mise en application
 <!-- ws:doit -->
 
 Voici le fichier trouvé sur le serveur :
 
-[Le fichier mystère](fichiers/inconnu.bin)
+[Le fichier mystère](fichiers/inconnu)
 
 Découvre ce que c'est, et le flag apparaîtra.
 
