@@ -4,7 +4,7 @@
 Les trois derniers défis, tous ouverts en même temps. Ce sont les plus longs : prends ton temps.
 
 ## Bip bip biiiip
-<!-- ws: {type: exercise, id: bip-bip-biiiip, points: 13} -->
+<!-- ws: {type: exercise, id: bip-bip-biiiip, points: 130} -->
 
 **Stéganographie** : l'art de cacher un message là où personne ne pense à le chercher.
 
@@ -43,7 +43,7 @@ Si le décodeur hésite, ralentis : les silences plus longs séparent les lettre
 </details>
 
 ## Fichier mystère
-<!-- ws: {type: exercise, id: fichier-mystere, points: 15} -->
+<!-- ws: {type: exercise, id: fichier-mystere, points: 160} -->
 
 **Forensique** : analyser des fichiers et des traces, comme la police scientifique.
 
@@ -89,7 +89,7 @@ Le jeu attend un code de triche très célèbre, que les joueurs des années 80 
 </details>
 
 ## Sonagram
-<!-- ws: {type: exercise, id: sonagram, points: 20} -->
+<!-- ws: {type: exercise, id: sonagram, points: 200} -->
 
 Mon instrument de musique fait un bruit extrêmement étrange… Pouvez-vous m'aider à le réparer ?
 
@@ -126,7 +126,7 @@ Regarde tout en bas de l'image, du côté des graves.
 </details>
 
 ## Bonus secret
-<!-- ws: {type: exercise, id: bonus-secret, points: 10, optional: true} -->
+<!-- ws: {type: exercise, id: bonus-secret, points: 100, optional: true} -->
 
 Tu as fini ? Il reste un dernier secret. Une image de cet atelier cache un message que personne
 ne voit. Laquelle, et où ? À toi de chercher.
