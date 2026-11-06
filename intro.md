@@ -12,14 +12,14 @@ rien à installer.
 ordinateur, et c'est comme ça que les professionnels de la cybersécurité s'entraînent. Chaque
 énigme résolue te donne un **flag** (un code secret) et des points.
 
-Un flag ressemble presque toujours à ceci :
+Dans cet atelier, un flag ressemble toujours à ceci :
 
 ```text
 ctf{ma_super_reponse}
 ```
 
-Tu le colles dans la case de l'étape, puis tu valides. Quelques défis attendent une réponse
-sans `ctf{}` : la ligne **« Format du flag »** de chaque défi te dit toujours quoi écrire.
+Tu le colles dans la case de l'étape, puis tu valides. La ligne **« Format du flag »** de chaque
+défi te dit ce qu'il faut mettre entre les accolades.
 
 ## Où sont les indices ?
 
