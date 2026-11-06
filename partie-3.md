@@ -19,7 +19,7 @@ Voici les signaux interceptés :
 
 Mets le son et écoute bien. Retrouve le message.
 
-Format du flag : le message décodé, **en minuscules, sans espaces**, sans `ctf{}`.
+Format du flag : `ctf{...}`, avec le message décodé entre les accolades, sans espaces.
 
 <!-- ws: {type: hint} -->
 <details><summary>Indice 1</summary>
@@ -58,7 +58,7 @@ Voici le fichier trouvé sur le serveur :
 
 Découvre ce que c'est, et le flag apparaîtra.
 
-Format du flag : recopie-le **exactement** comme il s'affiche (majuscules et tirets compris), sans `ctf{}`.
+Format du flag : `ctf{...}`, avec entre les accolades le texte affiché par le jeu, tirets compris.
 
 <!-- ws: {type: hint} -->
 <details><summary>Indice 1</summary>

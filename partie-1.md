@@ -72,10 +72,10 @@ les mots au micro.
 Décode ce message :
 
 ```text
-Bravo Oscar India Lima Delta Echo Delta Echo Golf Golf Sierra Foxtrot Oscar Romeo Delta India November Echo Romeo
+Bravo Oscar India Lima Echo Delta Echo Golf Golf Sierra Foxtrot Oscar Romeo Delta India November Echo Romeo
 ```
 
-Format du flag : le message décodé, **en majuscules, sans espaces**, sans `ctf{}`.
+Format du flag : `ctf{...}`, avec le message décodé entre les accolades, sans espaces.
 
 <!-- ws: {type: hint} -->
 <details><summary>Indice 1</summary>
