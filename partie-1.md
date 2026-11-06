@@ -3,7 +3,7 @@
 Quatre défis courts pour apprendre les gestes. Ils s'ouvrent l'un après l'autre.
 
 ## Tutoriel
-<!-- ws: {type: exercise, id: tutoriel, points: 3} -->
+<!-- ws: {type: exercise, id: tutoriel, points: 50} -->
 <!-- étape de modelage : le flag est donné volontairement -->
 
 Ce premier défi est un cadeau : il te montre comment valider un flag.
@@ -29,7 +29,7 @@ sans jamais donner le flag. Ils sont gratuits : n'hésite pas à les ouvrir quan
 </details>
 
 ## Agent 064
-<!-- ws: {type: exercise, id: agent-064, points: 5} -->
+<!-- ws: {type: exercise, id: agent-064, points: 60} -->
 
 Notre agent 064 a encore envoyé un message en **base64** au lieu d'utiliser notre système
 secret.
@@ -61,7 +61,7 @@ Le message décodé est une phrase. Le flag est caché au milieu : recopie seule
 </details>
 
 ## Alpha, Bravo, Charlie
-<!-- ws: {type: exercise, id: alpha-bravo-charlie, points: 5} -->
+<!-- ws: {type: exercise, id: alpha-bravo-charlie, points: 60} -->
 
 Un message radio a été intercepté. C'est la façon dont les pilotes et les militaires épellent
 les mots au micro.
@@ -99,7 +99,7 @@ Recopie les lettres telles qu'elles sortent, même si un mot te semble mal écri
 </details>
 
 ## Plat de résistance
-<!-- ws: {type: exercise, id: plat-de-resistance, points: 7} -->
+<!-- ws: {type: exercise, id: plat-de-resistance, points: 80} -->
 
 Nous testons un chiffrement **par décalage** pour protéger les messages entre agents. Avant de
 l'utiliser pour de vrai, essaie de le casser.

@@ -4,7 +4,7 @@
 Quatre défis, tous ouverts en même temps. Fais-les dans l'ordre que tu veux.
 
 ## Mission cérébrale
-<!-- ws: {type: exercise, id: mission-cerebrale, points: 8} -->
+<!-- ws: {type: exercise, id: mission-cerebrale, points: 90} -->
 
 Un agent nous a envoyé ce message. On dirait du charabia fait de `+ - < > [ ] .`
 
@@ -38,7 +38,7 @@ Pas besoin d'installer quoi que ce soit : cherche un « interpréteur en ligne �
 </details>
 
 ## Quel Epitech ?
-<!-- ws: {type: exercise, id: quel-epitech, points: 8} -->
+<!-- ws: {type: exercise, id: quel-epitech, points: 90} -->
 
 **OSINT** veut dire enquêter avec ce que tout le monde peut trouver sur Internet.
 
@@ -70,7 +70,7 @@ Compare les deux photos : un détail a été effacé sur la première. Le reste 
 </details>
 
 ## Agent 011
-<!-- ws: {type: exercise, id: agent-011, points: 10} -->
+<!-- ws: {type: exercise, id: agent-011, points: 120} -->
 
 Nous avons reçu un message très étrange de l'agent 011… Que se passe-t-il ?
 
@@ -107,7 +107,7 @@ Dans CyberChef, tu peux mettre plusieurs étapes l'une après l'autre dans la m�
 </details>
 
 ## Désordre stratégique
-<!-- ws: {type: exercise, id: desordre-strategique, points: 14} -->
+<!-- ws: {type: exercise, id: desordre-strategique, points: 160} -->
 
 Vous avez cassé notre code par décalage trop facilement. Nous utilisons maintenant une **substitution** : l'alphabet entier est mélangé.
 

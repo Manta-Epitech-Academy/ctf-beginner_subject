@@ -56,6 +56,6 @@ marche pour tous les défis.
   temps. Fais-les dans l'ordre que tu veux. Un défi te bloque ? Passe au suivant et reviens plus
   tard.
 
-Les points d'un défi correspondent au nombre de minutes qu'il prend en moyenne.
+Chaque minute vaut 10 points : un défi à 100 points prend environ 10 minutes.
 
 Prêt·e ? Valide cette page pour ouvrir le premier défi.
