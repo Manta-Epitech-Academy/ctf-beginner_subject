@@ -163,4 +163,4 @@ faibles, couleur par couleur.
 
 ## Et maintenant
 
-Tu viens de faire ce que font les analystes en cybersécurité : observer, deviner ce qui se cache derrière, trouver le bon outil et vérifier. Les vrais CTF fonctionnent exactement comme ça, avec des défis de plus en plus durs. Si tu as aimé, il y en a toute l'année, en ligne et gratuits.
+Tu viens de faire ce que font les analystes en cybersécurité : observer, deviner ce qui se cache derrière, trouver le bon outil et vérifier. Les vrais CTF fonctionnent exactement comme ça, avec des défis de plus en plus durs.
