@@ -1,61 +1,38 @@
 # Mon premier CTF
 
-![L'affiche de l'atelier : un drapeau jaune au-dessus du titre « ctf{ Mon premier CTF } », sur une pluie de chiffres.](img/cover.png)
-
 Pendant deux heures, tu vas décoder des messages secrets, enquêter sur des photos et fouiller
-des fichiers bizarres. Aucune connaissance n'est nécessaire : tout se fait dans le navigateur,
-rien à installer.
+des fichiers bizarres. Aucune connaissance n'est nécessaire, juste de la curiosité.
+Tout se fait dans le navigateur, rien à installer sur ta machine.
 
 ## C'est quoi un CTF ?
 
 **CTF** veut dire *Capture The Flag*, « capture le drapeau ». C'est une chasse au trésor sur
-ordinateur, et c'est comme ça que les professionnels de la cybersécurité s'entraînent. Chaque
-énigme résolue te donne un **flag** (un code secret) et des points.
+ordinateur, et c'est comme ça que les professionnels de la cybersécurité s'entraînent.
 
-Dans cet atelier, un flag ressemble toujours à ceci :
+Chaque énigme résolue te donne un **flag**, un code secret qui ressemble à ceci :
 
 ```text
 ctf{ma_super_reponse}
 ```
 
-Tu le colles dans la case de l'étape, puis tu valides. La ligne **« Format du flag »** de chaque
-défi te dit ce qu'il faut mettre entre les accolades.
-
-## Où sont les indices ?
-
-Sous chaque défi, des blocs **Indice** s'ouvrent d'un clic. Ils sont **gratuits** : tu ne perds
-aucun point. Un indice te montre où chercher, il ne te donne jamais le flag. Bloqué·e depuis
-cinq minutes ? Ouvre le premier indice.
-
-## Exemple résolu, pas à pas
+## Un exemple, pas à pas
 
 Imagine qu'un défi te donne ce message :
 
 ```text
-Y3Rme2NfZXN0X3BhcnRpfQ==
+01100011 01110100 01100110 01111011 01100111 01101111 01111101
 ```
 
-1. **Observer.** Des majuscules, des minuscules, des chiffres, et deux `==` à la fin. Ce n'est
-   pas du chiffrement, c'est un **encodage** : une autre façon d'écrire le même texte. Celui-ci
-   s'appelle le **base64**, et le `=` final est sa signature.
-2. **Ouvrir l'outil.** Va sur [CyberChef](https://gchq.github.io/CyberChef/), le « couteau
-   suisse » des services de renseignement britanniques, gratuit et dans le navigateur.
-3. **Choisir l'opération.** Dans la colonne de gauche, tape `From Base64` et fais glisser
-   l'opération dans la colonne du milieu (la « recette »).
-4. **Coller le message** dans la case *Input*, en haut à droite.
-5. **Lire le résultat** dans la case *Output* : `ctf{c_est_parti}`. C'est le flag ! Il ne reste
-   qu'à le copier dans la case du défi.
+1. **Observer.** Que des 0 et des 1 : c'est du **binaire**.
+2. **Chercher un outil.** Cherche un outil en ligne capable de décoder du binaire, par exemple
+   [dCode](https://www.dcode.fr/code-ascii).
+3. **Décoder.** Colle le message dans la case « Message chiffré en ASCII », puis clique sur
+   **Déchiffrer**.
+4. **Vérifier.** Dans les résultats, la ligne `BIN /8` affiche `ctf{go}` : c'est le flag !
 
-Retiens la méthode : **observer → deviner ce que c'est → trouver l'outil → vérifier**. Elle
-marche pour tous les défis.
+## Comment ça se passe
 
-## Comment l'atelier est organisé
+Les quatre premiers défis se font dans l'ordre : ils t'apprennent les bases. Ensuite, plusieurs
+défis s'ouvrent en même temps. Un défi te bloque ? Passe au suivant et reviens plus tard.
 
-- **Premiers flags** : quatre défis courts, à faire dans l'ordre. Ils t'apprennent les gestes.
-- **Enquêtes et codes secrets** puis **Signaux et fichiers** : les défis s'ouvrent tous en même
-  temps. Fais-les dans l'ordre que tu veux. Un défi te bloque ? Passe au suivant et reviens plus
-  tard.
-
-Chaque minute vaut 10 points : un défi à 100 points prend environ 10 minutes.
-
-Prêt·e ? Valide cette page pour ouvrir le premier défi.
+Bloqué·e depuis cinq minutes ? Ouvre un indice : c'est gratuit.

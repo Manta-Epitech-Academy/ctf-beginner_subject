@@ -48,7 +48,8 @@ Format du flag : `ctf{...}`
 <!-- ws: {type: hint} -->
 <details><summary>Indice 1</summary>
 
-C'est le même geste que l'exemple de la page d'accueil, avec le même outil.
+Le base64 se décode avec un outil en ligne, par exemple
+[CyberChef](https://gchq.github.io/CyberChef/) : cherche l'opération `From Base64`.
 
 </details>
 
