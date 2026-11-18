@@ -25,6 +25,6 @@ Décode des messages secrets, enquête sur des photos et fouille des fichiers bi
 - Bip bip biiiip (3 indices)
 - Fichier mystère (4 indices)
 - Sonagram (3 indices)
-- Bonus secret (3 indices)
+- Bonus secret (sans indice)
 
-**12 étapes**, 33 indices, 4 images, 3 fichiers à télécharger.
+**12 étapes**, 30 indices, 4 images, 3 fichiers à télécharger.

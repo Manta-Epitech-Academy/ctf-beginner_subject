@@ -7,7 +7,7 @@ project:
   entrypoint: "intro.md"
 
 cover:
-  media: img/cover.png
+  media: img/cover.ppm
   tagline: "Décode des messages secrets et capture tes premiers flags, sans rien installer."
 
 platform:
