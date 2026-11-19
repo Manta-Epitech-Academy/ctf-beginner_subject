@@ -126,7 +126,7 @@ Regarde tout en bas de l'image, du côté des graves.
 </details>
 
 ## Bonus secret
-<!-- ws: {type: exercise, id: bonus-secret, points: 100, optional: true} -->
+<!-- ws: {type: exercise, id: bonus-secret, points: 300, optional: true} -->
 
 Tu as fini ? Il reste un dernier secret. Une image de cet atelier cache un message que personne
 ne voit. Laquelle, et où ? À toi de chercher.
